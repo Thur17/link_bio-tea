@@ -2,7 +2,7 @@
 
 ## Olá seja bem vindo, Projeto de link's para BIO de instagram
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Thur17/links_BIO/blob/master/License)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Thur17/link_bio-tea/blob/master/licence)
 
 ## Sobre o projeto de link's de bio (Projeto voluntário)
 
@@ -10,9 +10,9 @@ A proposta desse projeto e de criar um Landing Page com os links de todas as red
 
 ### Coloque traje e vamos la conferir como ficou
 
-[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/link_bio-ffsti/)
+[![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/link_bio-tea/)
 
-[![web 1](https://raw.githubusercontent.com/Thur17/link_bio-ffsti/master/assets/img/Final.jpeg)](https://thur17.github.io/link_bio-ffsti/)
+[![web 1](https://raw.githubusercontent.com/Thur17/link_bio-tea/master/assets/img/Final.jpeg)](https://thur17.github.io/link_bio-tea/)
 
 ## Tecnologias utilizadas
 
